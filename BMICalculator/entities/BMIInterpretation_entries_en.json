@@ -1,0 +1,26 @@
+[
+  {
+    "value": "underweight",
+    "synonyms": [
+      "underweight"
+    ]
+  },
+  {
+    "value": "overweight",
+    "synonyms": [
+      "overweight"
+    ]
+  },
+  {
+    "value": "obese",
+    "synonyms": [
+      "obese"
+    ]
+  },
+  {
+    "value": "normal",
+    "synonyms": [
+      "normal"
+    ]
+  }
+]

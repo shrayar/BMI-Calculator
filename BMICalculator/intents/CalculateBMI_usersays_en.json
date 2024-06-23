@@ -1,0 +1,493 @@
+[
+  {
+    "id": "e39a7a97-fa65-4d5e-87fa-80f23c253963",
+    "data": [
+      {
+        "text": "Calculate my BMI based on height ",
+        "userDefined": false
+      },
+      {
+        "text": "6 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " weight ",
+        "userDefined": false
+      },
+      {
+        "text": "154 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4beacd36-c975-4179-b8ab-8516d0ede8f9",
+    "data": [
+      {
+        "text": "I weigh ",
+        "userDefined": false
+      },
+      {
+        "text": "154 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": "  and am ",
+        "userDefined": false
+      },
+      {
+        "text": "5 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " tall. Can you calculate my BMI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "089155ae-cde7-423c-8628-d8ac74f0393a",
+    "data": [
+      {
+        "text": "What is my BMI if I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "6 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": "  tall and weigh ",
+        "userDefined": false
+      },
+      {
+        "text": "158 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "936d35fa-f871-4cac-8501-dde65d15722d",
+    "data": [
+      {
+        "text": "Calculate my BMI with a height of ",
+        "userDefined": false
+      },
+      {
+        "text": "5 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " and a weight of ",
+        "userDefined": false
+      },
+      {
+        "text": "160 pounds",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7972e9b3-f69d-40b6-86db-a98a60f121a2",
+    "data": [
+      {
+        "text": "Please calculate my BMI. Height is ",
+        "userDefined": false
+      },
+      {
+        "text": "6 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": ", weight is ",
+        "userDefined": false
+      },
+      {
+        "text": "200 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "509c6497-a9f9-4e40-a0cd-831f47ae294a",
+    "data": [
+      {
+        "text": "What\u0027s my Body Mass Index if I weigh ",
+        "userDefined": false
+      },
+      {
+        "text": "200 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": " and I am ",
+        "userDefined": false
+      },
+      {
+        "text": "5 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " tall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5880f8e7-276f-48a3-a8fa-7abf485464b9",
+    "data": [
+      {
+        "text": "Could you calculate my BMI? I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "5 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " tall and weigh ",
+        "userDefined": false
+      },
+      {
+        "text": "160 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "976b25bf-11c3-4b4d-a48a-83b7380173ec",
+    "data": [
+      {
+        "text": "My height is ",
+        "userDefined": false
+      },
+      {
+        "text": "6 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " and weight is ",
+        "userDefined": false
+      },
+      {
+        "text": "180 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": ". Calculate my BMI, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88cc10a2-a676-4efa-afa2-b7f8bc96ea5c",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "6 ft",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " tall and weigh ",
+        "userDefined": false
+      },
+      {
+        "text": "180 pounds",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": ". What\u0027s my BMI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dd970b9-1f25-4148-a30b-75215eb13b81",
+    "data": [
+      {
+        "text": "Calculate my BMI based on height ",
+        "userDefined": false
+      },
+      {
+        "text": "5 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " and weight ",
+        "userDefined": false
+      },
+      {
+        "text": "170 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d9425a8-9868-44e9-9539-82e72ea092c0",
+    "data": [
+      {
+        "text": "I weigh ",
+        "userDefined": false
+      },
+      {
+        "text": "160 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": " and am ",
+        "userDefined": false
+      },
+      {
+        "text": "5 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " tall. Can you calculate my BMI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54b7d2f5-de3f-4e5b-be55-e175af9184a2",
+    "data": [
+      {
+        "text": "Please calculate my BMI. My height is ",
+        "userDefined": false
+      },
+      {
+        "text": "5 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " and weight is ",
+        "userDefined": false
+      },
+      {
+        "text": "160 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6749436f-a9b3-4f5a-81a8-d765a281406f",
+    "data": [
+      {
+        "text": "What\u0027s my BMI if I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "6 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " tall and weigh ",
+        "userDefined": false
+      },
+      {
+        "text": "180 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e59eb16e-5b0d-42ee-9fef-626f2839f9a4",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "5 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " tall and weigh ",
+        "userDefined": false
+      },
+      {
+        "text": "170 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": ". What\u0027s my BMI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d76d43d-0cba-4e86-bd05-99c949152f9f",
+    "data": [
+      {
+        "text": "Calculate my BMI with a height of ",
+        "userDefined": false
+      },
+      {
+        "text": "6 feet",
+        "meta": "@sys.number",
+        "alias": "Height",
+        "userDefined": true
+      },
+      {
+        "text": " and a weight of ",
+        "userDefined": false
+      },
+      {
+        "text": "150 lbs",
+        "meta": "@sys.number",
+        "alias": "Weight",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

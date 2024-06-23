@@ -1,0 +1,347 @@
+[
+  {
+    "id": "26dce649-8b48-4a20-989d-3d647ea1deac",
+    "data": [
+      {
+        "text": "If my BMI is ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": ", what category does that fall into and what does it mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99d84da8-e110-4c42-a5c9-13c6805c3f13",
+    "data": [
+      {
+        "text": "What does a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "29",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": " indicate for my health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1111faa7-30e6-40ea-87d1-3bb8093316c4",
+    "data": [
+      {
+        "text": "Explain the health risks associated with a ",
+        "userDefined": false
+      },
+      {
+        "text": "35",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": " BMI.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "581b5a69-7a8f-4729-ba12-ddb6b99c3e35",
+    "data": [
+      {
+        "text": "What does it mean if my BMI is in the ",
+        "userDefined": false
+      },
+      {
+        "text": "35",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": " range?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f38dfae9-0aab-4d9c-9b2d-8d5133ddc6f3",
+    "data": [
+      {
+        "text": "Tell me about the health implications of a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "40",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c8ab06b-010e-4c01-a1a7-6e43eba7f0df",
+    "data": [
+      {
+        "text": "What are the dangers of having a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "35",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8650377-0feb-4183-8732-3cefdea332c4",
+    "data": [
+      {
+        "text": "Can you describe what a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": " means for my health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b185e843-2481-400a-b349-c55707e1e542",
+    "data": [
+      {
+        "text": "Is having a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": " considered overweight?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fa1c8e4-4fa0-46ec-8333-4a47e953fa07",
+    "data": [
+      {
+        "text": "What does a ",
+        "userDefined": false
+      },
+      {
+        "text": "29",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": " BMI range mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c3b7161-ad52-4fa4-822a-d6c490589b82",
+    "data": [
+      {
+        "text": "How does a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "26",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": " affect my health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7d5d1d3-6c02-44ca-a9be-200068c3b84e",
+    "data": [
+      {
+        "text": "What are the health risks of being underweight with a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "17",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e362a32d-32e5-49c5-b55d-5cdc32edebd1",
+    "data": [
+      {
+        "text": "Explain the significance of having a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "22",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a7eb416-6ccf-4d29-85bd-593b506cab1d",
+    "data": [
+      {
+        "text": "If my BMI is ",
+        "userDefined": false
+      },
+      {
+        "text": "28",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": ", what does that indicate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1e75dff-aedc-429f-a618-8abab9f1e010",
+    "data": [
+      {
+        "text": "Can you tell me about the health implications of a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "24",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c213502-388b-4794-a11d-cf7d2388be5d",
+    "data": [
+      {
+        "text": "What does it mean to have a BMI of ",
+        "userDefined": false
+      },
+      {
+        "text": "18.5",
+        "meta": "@sys.number",
+        "alias": "BMI",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

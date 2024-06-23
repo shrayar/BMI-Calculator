@@ -1,0 +1,370 @@
+[
+  {
+    "id": "23291084-0d12-406f-85d7-ca81a50231ce",
+    "data": [
+      {
+        "text": "How can I ensure my BMI stays in the ",
+        "userDefined": false
+      },
+      {
+        "text": "normal",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " range?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51f8a118-7ecf-4e57-8c36-dddc85c76f64",
+    "data": [
+      {
+        "text": "What are effective ways to lower my BMI from ",
+        "userDefined": false
+      },
+      {
+        "text": "obese",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec7ba0f8-1e69-4843-b940-46b885ff3538",
+    "data": [
+      {
+        "text": "Can you suggest some habits to adopt if my BMI is in the ",
+        "userDefined": false
+      },
+      {
+        "text": "overweight",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " category?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "357d2347-7a6b-420a-9820-e35d97703107",
+    "data": [
+      {
+        "text": "What are some nutrition tips for maintaining a healthy ",
+        "userDefined": false
+      },
+      {
+        "text": "normal",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " BMI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d94ab92-6131-48b9-a8a7-0a30928ae2a8",
+    "data": [
+      {
+        "text": "What lifestyle changes should I consider if my BMI is in the ",
+        "userDefined": false
+      },
+      {
+        "text": "normal",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " range?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "618b8a3b-f4ba-4bf1-ab41-6d3a8105dd23",
+    "data": [
+      {
+        "text": "How can I improve my health if my BMI is categorized as ",
+        "userDefined": false
+      },
+      {
+        "text": "obese",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc8dca75-bd53-4470-95bb-416de12dc532",
+    "data": [
+      {
+        "text": "What are the best exercises for reducing a ",
+        "userDefined": false
+      },
+      {
+        "text": "overweight",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " BMI range?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "831e521f-970e-4c47-b836-625a143a05ad",
+    "data": [
+      {
+        "text": "What are the best exercises for reducing a ",
+        "userDefined": false
+      },
+      {
+        "text": "overweight",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " BMI range",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0936a33c-dc73-41eb-9ef6-d4a6aeaab41e",
+    "data": [
+      {
+        "text": "Can you provide fitness tips for someone with an ",
+        "userDefined": false
+      },
+      {
+        "text": "overweight",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " BMI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "234fde91-a200-475e-a40d-4a53a4c1e4ca",
+    "data": [
+      {
+        "text": "What dietary changes should I make if I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "normal",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " BMI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ce25092-a00e-44d1-9a26-50e897ff001e",
+    "data": [
+      {
+        "text": "How can I manage my weight if I am ",
+        "userDefined": false
+      },
+      {
+        "text": "overweight",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dc7f14b-3d73-4e8c-946f-05c45fe781a0",
+    "data": [
+      {
+        "text": "What are some general health tips for someone with an ",
+        "userDefined": false
+      },
+      {
+        "text": "obese",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " BMI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cad187f-cb9a-46b0-b012-d3b175dd7ff8",
+    "data": [
+      {
+        "text": "How can I gain weight healthily if my BMI is ",
+        "userDefined": false
+      },
+      {
+        "text": "underweight",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81773b13-b9f8-401b-8d4a-ea5309e37eae",
+    "data": [
+      {
+        "text": "What are some weight loss tips for someone ",
+        "userDefined": false
+      },
+      {
+        "text": "overweight",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b961721b-e3ab-4172-a222-24e82c76d7c6",
+    "data": [
+      {
+        "text": "Can you give me health tips for maintaining a ",
+        "userDefined": false
+      },
+      {
+        "text": "normal",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": false
+      },
+      {
+        "text": " BMI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5fe0ea5-5896-4690-b679-89a6d775402b",
+    "data": [
+      {
+        "text": "What should I do if my BMI is in the ",
+        "userDefined": false
+      },
+      {
+        "text": "overweight",
+        "meta": "@BMIInterpretation",
+        "alias": "BMIInterpretation",
+        "userDefined": true
+      },
+      {
+        "text": " range?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "1004d71a-201d-408b-88d0-df204eaeda9a",
+  "name": "BMIInterpretation",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

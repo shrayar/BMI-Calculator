@@ -1,0 +1,53 @@
+{
+  "id": "8a2cb590-2c43-415d-a679-7aadc0d41f5e",
+  "name": "CalculateBMI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7fa3999b-2b00-4d46-8421-7eb749bc159b",
+          "name": "Height",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$Height",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "16c5b24c-1e13-4a13-a5ae-5ffca0bfa7ee",
+          "name": "Weight",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$Weight",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
